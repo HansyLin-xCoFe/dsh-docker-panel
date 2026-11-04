@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Docker Services",
+    "description": "Open web services running in your local Docker from the sidebar: containers are discovered automatically, one click opens the local page."
+  }
+}

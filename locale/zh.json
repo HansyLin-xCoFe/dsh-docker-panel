@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Docker 服务",
+    "description": "在左侧栏一键打开本机 Docker 里的网页服务：自动发现容器，点击卡片直达本地网页。"
+  }
+}
